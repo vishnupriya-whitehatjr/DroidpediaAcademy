@@ -1,7 +1,11 @@
 body {
-  border: 5px groove lightcoral;
+  border: 5px groove grey;
   padding: 40px;
   font-family: roboto;
   text-align: justify;
-  color: rgb(39, 2, 2);
+  color: #a3b2c6;
+  font-size: medium;
+}
+body h1 {
+  color: #1e242b;
 }
